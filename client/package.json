@@ -1,7 +1,8 @@
 {
-  "name": "app",
+  "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
     "@sanity/client": "^3.4.1",
