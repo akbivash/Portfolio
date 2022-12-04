@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d32cc42b.css",
+    "main.js": "./static/js/main.feea3cce.js",
+    "static/media/clothhouse.jpg": "./static/media/clothhouse.cff4dd101f8be89ea9f1.jpg",
+    "static/media/nft.jpg": "./static/media/nft.7bddf5a05fad4f789a5f.jpg",
+    "static/media/dashboard.jpg": "./static/media/dashboard.5f3e0b09a609e43f2e36.jpg",
+    "index.html": "./index.html",
+    "main.d32cc42b.css.map": "./static/css/main.d32cc42b.css.map",
+    "main.feea3cce.js.map": "./static/js/main.feea3cce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d32cc42b.css",
+    "static/js/main.feea3cce.js"
+  ]
+}
